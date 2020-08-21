@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_add_pay10_ieps_add_pay10_ieps,add_pay10_ieps.add_pay10_ieps,model_add_pay10_ieps_add_pay10_ieps,,1,0,0,0
